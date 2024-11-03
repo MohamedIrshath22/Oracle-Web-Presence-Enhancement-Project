@@ -21,7 +21,6 @@ Benefits Section: Highlights OCI’s high performance, security, and global reac
 Client Testimonials: Logos and quotes from recognized brands.
 Lead Capture Form: Simplified for easy conversion.
 Strong CTAs: Buttons encouraging users to start a free trial or request a demo.
-Design Assets: ( Link to Design Folder )
 
 📢 Thank You!
 This project is an ongoing effort to ensure that Oracle’s online presence reflects its standing as a leading provider of cloud and enterprise solutions.
